@@ -19,15 +19,15 @@ const qBank = [
     },
     {
         id: 4,
-        question: "What is the capital of Uttarakhad?",
-        options: ["Roorkee", "Haridwar", "Dehradun", "Nanital"],
-        answer: "Dehradun"
+        question: "How many years did Mandela spend in prison?",
+        options: ["27", "29", "33", "10"],
+        answer: "27"
     },
     {
         id: 5,
-        question: "What is capital of Uttar Pradesh?",
-        options: ["GB Nagar", "Lucknow", "Prayagraj", "Agra"],
-        answer: "Lucknow"
+        question: "When was the Bantu Education Act published?",
+        options: ["1949", "1953", "2000", "1920"],
+        answer: "1953"
     },
 ]
  
